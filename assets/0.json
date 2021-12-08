@@ -1,0 +1,19 @@
+{
+    "name": "connect",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "3BwRNgTifqEFMAoF1k26hhY8xtNhXPM3Ggvh9iqK3dY7",
+          "share": 100
+        }
+      ]
+    }
+  }

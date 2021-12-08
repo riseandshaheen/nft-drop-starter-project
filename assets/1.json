@@ -1,0 +1,19 @@
+{
+    "name": "worlds beyond",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "3BwRNgTifqEFMAoF1k26hhY8xtNhXPM3Ggvh9iqK3dY7",
+          "share": 100
+        }
+      ]
+    }
+  }
